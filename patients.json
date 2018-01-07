@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Max Mustermann",
+    "ward": "Oncology",
+    "diagnosis": "Lung Cancer",
+    "medication": "Blubserizin"
+  },
+  {
+    "name": "Jane Doe", 
+    "ward": "Traumatology",
+    "diagnosis": "Broken Ulna Bone",
+    "medication": "Heparin"
+  },
+  {
+    "name": "Hulk", 
+    "ward": "Psychiatry",
+    "diagnosis": "Hypochondriasis",
+    "medication": "Placebo"
+  }
+]
